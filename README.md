@@ -25,3 +25,4 @@ Useful Insights: (Shown in the screenshots below)
 - Most of the customers preferred standard class ship mode.
 - Next 15 Days Forecast which is very useful for business.
 
+![Screenshot 2023-07-07 101742](https://github.com/Samaumareddy/Superstore_Sales-forecasting-Analysis/assets/120989667/451e260b-42a9-4376-bfef-989729a5f5ab)
